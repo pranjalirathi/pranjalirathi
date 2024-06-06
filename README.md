@@ -1,11 +1,9 @@
 [![MasterHead](https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg)](https://pranjalirathi.io)
 <h1 align="center">Hi 👋, I'm Pranjali</h1>
 <h3 align="center">A third year undergrad at IIIT Bhagalpur</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg">
+<img align="right" alt="Coding" width="250" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalirathi&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalirathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalirathi" alt="pranjalirathi" /></a> </p>
 
 - 🌱 I’m currently learning **full stack web devlopment.**
 
