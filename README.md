@@ -1,10 +1,10 @@
-[![MasterHead](https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg)](https://pranjalirathi.io)
 <h1 align="center">Hi 👋, I'm Pranjali</h1>
 
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Learning+Full+Stack+Wev+Dev;React+Typescript+and +many+more;" alt="Typing SVG" /></a> 
   </p>
-<!-- <h3 align="center">A third year undergrad at IIIT Bhagalpur</h3> -->
+<!-- <h3 align="center">A third year undergrad at IIIT Bhagalpur img for <--[![MasterHead](https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg)](https://pranjalirathi.io)  </h3> -->
+
 <img align="right" alt="Coding" width="250" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg">
 
 - ⚡ A third year undergrad at IIIT Bhagalpur
