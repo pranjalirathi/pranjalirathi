@@ -9,13 +9,15 @@
 
 - 🔭 A third year undergrad at IIIT Bhagalpur
 
-- 🌱 I’m currently learning **full stack web devlopment.**
+- 🌱 I’m currently learning **full stack web devlopment**
 
-- 💬 Ask me about **ReactJS, NodeJS, Redux, Typescript**
+- 😎 I am also learning **Django**
+
+- 😈 Ask me about **ReactJS, NodeJS, Redux, Typescript**
 
 - 📫 How to reach me **pranjalir0503@gmail.com**
 
-- ⚡ Fun Fact : **I once solved a bug at 3 AM due to my boss and still don’t remember how I did it.**
+- 😉 Fun Fact : **I once solved a bug at 3 AM due to my boss and still don’t remember how I did it.**
  
 <br>
 <br>
