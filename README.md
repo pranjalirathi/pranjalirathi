@@ -5,18 +5,6 @@
   </p>
 <!-- <h3 align="center">A third year undergrad at IIIT Bhagalpur img for <--[![MasterHead](https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg)](https://pranjalirathi.io)  </h3> -->
 
-<h1 align="center" color="#8700ff">Trophies
-</h1>
-<h3 align="center">A Cool Collection of Trophies</h3>
-
-[![UserSatoshi's Trophies](https://github-profile-trophy.vercel.app/?username=pranjalirathi)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h1 align="center" color="#8700ff">Socials & Skills
-</h1>
-
-
-
-<img align="right" alt="Coding" width="250" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg">
 
 - 🔭 A third year undergrad at IIIT Bhagalpur
 
@@ -26,7 +14,13 @@
 
 - 📫 How to reach me **pranjalir0503@gmail.com**
 
-- ⚡ Fun Fact : **I once solved a bug at 3 AM and still don’t remember how I did it.**
+- ⚡ Fun Fact : **I once solved a bug at 3 AM due to my boss and still don’t remember how I did it.**
+
+<h1 align="center" color="#8700ff">Trophies
+</h1>
+<h3 align="center">A Cool Collection of Trophies</h3>
+
+[![UserSatoshi's Trophies](https://github-profile-trophy.vercel.app/?username=pranjalirathi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
