@@ -20,7 +20,7 @@
 </h1>
 <h3 align="center">A Cool Collection of Trophies</h3>
 
-[![UserSatoshi's Trophies](https://github-profile-trophy.vercel.app/?username=pranjalirathi)](https://github.com/ryo-ma/github-profile-trophy)
+[![Pranjali's Trophies](https://github-profile-trophy.vercel.app/?username=pranjalirathi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
