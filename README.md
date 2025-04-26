@@ -9,11 +9,11 @@
 
 - 🔭 A third year undergrad at IIIT Bhagalpur
 
-- 🌱 I’m currently learning **full stack web devlopment**
+- 🌱 I’m currently working on **Avowal**
 
-- 😎 I am also learning **Django**
+- 😎 I am also learning **FastAPI**
 
-- 😈 Ask me about **ReactJS, NodeJS, Redux, Typescript**
+- 😈 Ask me about **ReactJS, ReactNative, FastAPI, Django**
 
 - 📫 How to reach me **pranjalir0503@gmail.com**
 
