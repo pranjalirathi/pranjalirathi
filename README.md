@@ -5,7 +5,7 @@
   </p>
 <!-- <h3 align="center">A third year undergrad at IIIT Bhagalpur img for <--[![MasterHead](https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg)](https://pranjalirathi.io)  </h3> -->
 
-<img align="right" alt="Coding" width="250" src="https://static.vecteezy.com/system/resources/previews/000/242/488/original/vector-female-developer.jpg">
+<img align="center" width="full" alt="Coding" width="250" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250521T155907Z&X-Amz-Expires=300&X-Amz-Signature=a8519c4e8bafefa54b3ed990e7b30ab4d32c2b2880c13ea4f89f9296a7e3a313&X-Amz-SignedHeaders=host">
 
 - 🔭 A third year undergrad at IIIT Bhagalpur
 
